@@ -10,6 +10,7 @@ namespace ExtentionMethodsDelegatesLambdaLINQ
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
